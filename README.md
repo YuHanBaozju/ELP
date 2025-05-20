@@ -10,7 +10,7 @@ This repository contains the code and resources for **One-Step Event-Driven High
 
 - Clone this project repository:
   ```
-  git clone <your_project_git_url>
+  git clone https://github.com/YuHanBaozju/ELP.git
   cd ELP-One-step-Event-driven-AF
   ```
 
